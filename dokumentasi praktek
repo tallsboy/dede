@@ -1,0 +1,6 @@
+code (^.+(nama website yang ingin di blok).*)
+
+  chain = forward 
+  in interface ether2 
+  advance layer 7 protokol
+  action drop
