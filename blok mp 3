@@ -1,0 +1,7 @@
+iatuuntuk port nya yitu di action yaitu 3128
+dst port yaitu 80
+
+chain (dstnat)
+protokol
+
+dan jangan lupa enable web prokynya
